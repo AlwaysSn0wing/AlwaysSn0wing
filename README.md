@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**AlwaysSn0wing/AlwaysSn0wing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hey there 👋
 
 - 🔭 I’m currently working on ...
+    •  Speech to Text system to help with Drive-Thru efficiency at Panda Express.
+    •  Brute force Sudoku solver.
+    •  Making my own LLM.
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+    •  Python Fundamentals.
+    •  Machine Learning & AI
+    •  Data Structures and Algorithms
+  
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+    •  Understanding Python Better
+
 - 📫 How to reach me: ...
+    •  https://www.linkedin.com/in/gavin-hall-07870740b/
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    •  he/him
